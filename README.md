@@ -12,3 +12,4 @@
 1. りんご
 2. みかん
 3. ばなな
+New line added by a local environment.
